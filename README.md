@@ -1,3 +1,5 @@
+# Pizza Sales Dashboard
+
 🔹 Overview:
 
 This project involves designing an interactive Sales Dashboard using Power BI/SQL/Excel to analyze key sales metrics. The goal is to provide actionable insights into sales performance, revenue trends, and customer behavior, enabling data-driven decision-making.
